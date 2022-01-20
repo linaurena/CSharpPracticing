@@ -1,0 +1,13 @@
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.exe
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.deps.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.runtimeconfig.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.runtimeconfig.dev.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\bin\Debug\netcoreapp3.1\HelloWorldPlatzi.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.csprojAssemblyReference.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.AssemblyInfoInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.AssemblyInfo.cs
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.csproj.CoreCompileInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\HelloWorldPlatzi\HelloWorldPlatzi\obj\Debug\netcoreapp3.1\HelloWorldPlatzi.genruntimeconfig.cache
