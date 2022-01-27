@@ -1,0 +1,28 @@
+﻿<Window x:Class="Namespaces.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Namespaces"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FF7D00FF">
+    <Grid Cursor="Hand" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="231*"/>
+            <ColumnDefinition Width="166*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Namespace" HorizontalAlignment="Left" Height="50" Margin="42,-193,0,0" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White"/>
+        <Border BorderThickness="0" HorizontalAlignment="Left" Height="300" Margin="42,-124,0,-174.4" VerticalAlignment="Top" Width="343" Background="#FF9E40FF" CornerRadius="14"/>
+        <Border BorderThickness="0" HorizontalAlignment="Left" Height="300" Margin="403,-124,0,-174.4" VerticalAlignment="Top" Width="343" Background="#FF9E40FF" CornerRadius="14" Grid.ColumnSpan="2"/>
+        <Label Content="Class N1" HorizontalAlignment="Left" Height="50" Margin="58,-110,0,0" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White"/>
+        <Label Content="Class N..." HorizontalAlignment="Left" Height="50" Margin="419,-110,0,0" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Grid.ColumnSpan="2"/>
+        <Border BorderThickness="0" HorizontalAlignment="Left" Height="203" Margin="58,-43,0,-158.4" VerticalAlignment="Top" Width="309" Background="#FFBA76FF" CornerRadius="14"/>
+        <Border BorderThickness="0" HorizontalAlignment="Left" Height="203" Margin="419,-43,0,-158.4" VerticalAlignment="Top" Width="309" Background="#FFBA76FF" CornerRadius="14" Grid.ColumnSpan="2"/>
+        <Label Content="Method A" HorizontalAlignment="Left" Height="50" Margin="82,-24,0,-24.4" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Background="#FF9B61D6" Padding="8,5,5,5"/>
+        <Label Content="Statement A" HorizontalAlignment="Left" Height="50" Margin="82,31,0,-79.4" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Background="#FF9B61D6" Padding="8,5,5,5"/>
+        <Label Content="Method..." HorizontalAlignment="Left" Height="50" Margin="441,-24,0,-24.4" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Background="#FF9B61D6" Padding="8,5,5,5" Grid.ColumnSpan="2"/>
+        <Label Content="Statement..." HorizontalAlignment="Left" Height="50" Margin="441,31,0,-79.4" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Background="#FF9B61D6" Padding="8,5,5,5" Grid.ColumnSpan="2"/>
+        <Label Content="Statement B" HorizontalAlignment="Left" Height="50" Margin="82,86,0,-134.4" VerticalAlignment="Top" Width="249" FontFamily="Century Gothic" FontSize="36" FontWeight="Bold" Foreground="White" Background="#FF9B61D6" Padding="8,5,5,5"/>
+
+    </Grid>
+</Window>
