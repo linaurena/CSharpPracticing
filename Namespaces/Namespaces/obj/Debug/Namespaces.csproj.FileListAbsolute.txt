@@ -1,0 +1,15 @@
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.csprojAssemblyReference.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\MainWindow.g.cs
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\App.g.cs
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces_MarkupCompile.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces_MarkupCompile.lref
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\MainWindow.baml
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.g.resources
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\Namespaces\Namespaces\obj\Debug\Namespaces.pdb
