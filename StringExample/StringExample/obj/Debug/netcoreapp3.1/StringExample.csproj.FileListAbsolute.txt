@@ -1,0 +1,13 @@
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.csprojAssemblyReference.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfoInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.AssemblyInfo.cs
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.csproj.CoreCompileInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.exe
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.deps.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.runtimeconfig.dev.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\bin\Debug\netcoreapp3.1\StringExample.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\StringExample\StringExample\obj\Debug\netcoreapp3.1\StringExample.genruntimeconfig.cache
