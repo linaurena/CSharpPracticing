@@ -1,0 +1,13 @@
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.exe
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.deps.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.runtimeconfig.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.runtimeconfig.dev.json
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\bin\Debug\netcoreapp3.1\ManejoDeStrings.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.csprojAssemblyReference.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.AssemblyInfoInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.AssemblyInfo.cs
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.csproj.CoreCompileInputs.cache
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.dll
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.pdb
+D:\Boni\Académico\Platzi\Escuela de Videojuegos\Curso de introducción a C#\HelloWorld\ManejoDeStrings\ManejoDeStrings\obj\Debug\netcoreapp3.1\ManejoDeStrings.genruntimeconfig.cache
